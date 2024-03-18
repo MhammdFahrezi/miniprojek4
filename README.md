@@ -1,7 +1,14 @@
 # miniprojek4
 Nama:Muhammad Fahrezi,NIM:2309116988
+
+
+
+
+
+
+
 from prettytable import PrettyTable
-import math
+
 
 class Node:
     def __init__(self, pajak):
