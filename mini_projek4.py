@@ -1,5 +1,5 @@
 from prettytable import PrettyTable
-import math
+
 
 class Node:
     def __init__(self, pajak):
