@@ -7,9 +7,16 @@ Nama:Muhammad Fahrezi,NIM:2309116988
 
 
 
+
+
+
+
+
+
+
+
+
 from prettytable import PrettyTable
-
-
 class Node:
     def __init__(self, pajak):
         self.pajak = pajak
