@@ -1,4 +1,5 @@
 # miniprojek4
+Muhammad Fahrei nim 2309116088
 
 
 from prettytable import PrettyTable
